@@ -1,3 +1,8 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,nodejs,py,react,docker,git,mongodb,postgres,)](https://skillicons.dev)
+👋🏻 Hi over there, my name is Tuomas. **I'm a Web Form Service Artisan.**
 
-<a href="https://app.daily.dev/finthunderstorm"><img src="https://api.daily.dev/devcards/4bf4bf7efe9e42268a5d8038f2ff2b08.png?r=08e" width="300" alt="Tuomas Alanen's Dev Card"/></a>
+💡 I am a **software developer** who loves to make an impact on users' life by solving identified problems. I'm passionate about **fullstack development**, learning analytics and I also have done some designing and material creation for existing platforms. I also want to **identify problems** and find the root cause for identified problems before solving them. I love doing things in **agile manner** and don't hesitate to take the software into new directions.
+
+👨🏻‍💻 My current position is **Trainee Software Developer** at [Digia Plc](https://digia.com/en). My past work history is available on my LinkedIn profile.<br />
+📖 I'm **Bachelor of Computer Science Student** at University of Helsinki.<br />
+🐴 My main work horses are TypeScript, SQL, Node.js, Python, Bash, React.js, Docker and AWS.<br />
+📚 I have Certified ScrumMaster® (CSM®) and Certified Scrum Product Owner® (CSPO®) certifications from Scrum Alliance. Also I am AWS Certified Solutions Architect - Associate.
